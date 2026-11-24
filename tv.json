@@ -171,6 +171,21 @@
       ]
     },
     {
+      "group": "山西",
+      "channels": [
+        {
+          "name": "山西卫视",
+          "urls": [
+            "https://live.264788.xyz/channel/shanxiweishi?streamid=eeb7d60ca6e0db131ea7a092a3cd28d2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+            "https://live.264788.xyz/channel/shanxiweishi?streamid=69e002ac7467d661ff7ad0671ed43f16&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=sxwshd",
+            "http://107.150.60.122/live/sxwshd.m3u8",
+            "http://204.12.221.218:8181/3m1080p/sxws.m3u8"
+          ]
+        }
+      ]
+    },
+    {
       "group": "内蒙古",
       "channels": [
         {
@@ -248,6 +263,15 @@
           "urls": [
             "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8"
           ]
+        },
+        {
+          "name": "吉林卫视",
+          "urls": [
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=jlwshd",
+            "http://107.150.60.122/live/jlwshd.m3u8",
+            "http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://38.75.136.137:98/gslb/dsdqpub/jlwshd.m3u8?auth=testpub"
+          ]
         }
       ]
     },
@@ -275,6 +299,16 @@
           "name": "东方卫视国际",
           "urls": [
             "https://restream.pdtvhd.com/memfs/0b1b95c9-3543-4af9-9fdb-cf45f1602f17.m3u8"
+          ]
+        },
+        {
+          "name": "东方卫视",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009",
+            "http://38.75.136.137:98/gslb/dsdqpub/dfwshd.m3u8?auth=testpub",
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dfwshd",
+            "http://107.150.60.122/live/dfwshd.m3u8",
+            "https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8"
           ]
         }
       ]
@@ -385,6 +419,15 @@
           "name": "福建综合",
           "urls": [
             "http://120.39.52.202:5140/福建综合"
+          ]
+        },
+        {
+          "name": "东南卫视",
+          "urls": [
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=dnwshd",
+            "http://107.150.60.122/live/dnwshd.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000483.m3u8",
+            "http://38.75.136.137:98/gslb/dsdqpub/dnwshd.m3u8?auth=testpub"
           ]
         }
       ]
@@ -497,6 +540,16 @@
           "urls": [
             "http://pili-live-hls.hebitv.com/hebi/hebi.m3u8"
           ]
+        },
+        {
+          "name": "河南卫视",
+          "urls": [
+            "http://107.150.60.122/live/hawshd.m3u8",
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hawshd",
+            "http://173.208.212.130:8181/720p/haws.m3u8",
+            "http://111.59.139.82:11888/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0",
+            "http://38.75.136.137:98/gslb/dsdqpub/hawshd.m3u8?auth=testpub"
+          ]
         }
       ]
     },
@@ -525,6 +578,14 @@
           "name": "宜昌三峡旅游生活",
           "urls": [
             "https://liveplay.ycrmt.cn/sxgd/lysh.m3u8"
+          ]
+        },
+        {
+          "name": "湖北卫视",
+          "urls": [
+            "http://107.150.60.122/live/hbwshd.m3u8",
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd",
+            "http://120.76.248.139/live/bfgd/4200000102.m3u8"
           ]
         }
       ]
@@ -606,6 +667,48 @@
           "name": "广西综艺旅游",
           "urls": [
             "http://111.59.24.227:8181/tsfile/live/1001_1.m3u8?authid=0&key=txiptv&playlive=1"
+          ]
+        },
+        {
+          "name": "广西卫视",
+          "urls": [
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gxwshd",
+            "http://107.150.60.122/live/gxwshd.m3u8",
+            "http://120.76.248.139/live/bfgd/4200000116.m3u8",
+            "http://198.204.228.26/live/gxwshd.m3u8",
+            "http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "海南",
+      "channels": [
+        {
+          "name": "海南卫视",
+          "urls": [
+            "http://120.76.248.139/live/bfgd/4200000473.m3u8"
+          ]
+        },
+        {
+          "name": "三沙卫视",
+          "urls": [
+            "http://107.150.60.122/live/ssws.m3u8",
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ssws",
+            "http://198.204.228.26/live/ssws.m3u8",
+            "http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub"
+          ]
+        }
+      ]
+    },
+    {
+      "group": "重庆",
+      "channels": [
+        {
+          "name": "重庆卫视",
+          "urls": [
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cqwshd",
+            "http://107.150.60.122/live/cqwshd.m3u8"
           ]
         }
       ]
@@ -704,6 +807,15 @@
           "urls": [
             "http://stream2.xiancity.cn/xatv5/playlist.m3u8"
           ]
+        },
+        {
+          "name": "陕西卫视",
+          "urls": [
+            "https://live.264788.xyz/channel/shaanxiweishi?streamid=9dc887dba8ecb4e4143baf4f2373800c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk",
+            "http://192.151.150.154/live/snwshd.m3u8",
+            "http://107.150.60.122/live/snwshd.m3u8",
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=snwshd"
+          ]
         }
       ]
     },
@@ -738,6 +850,14 @@
           "name": "兰州文旅",
           "urls": [
             "https://liveplus.lzr.com.cn/wlpd/HD/live.m3u8"
+          ]
+        },
+        {
+          "name": "甘肃卫视",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/gswshd.m3u8?auth=testpub",
+            "http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd",
+            "http://120.76.248.139/live/bfgd/4200000119.m3u8"
           ]
         }
       ]
