@@ -1545,6 +1545,173 @@
           ]
         }
       ]
+    },
+    {
+      "group": "成人",
+      "channels": [
+        {
+          "name": "Playboy TV",
+          "urls": [
+            "http://iptvtree.net:8080/live/iptvromania2020/31e75bff/14222.m3u8"
+          ]
+        },
+        {
+          "name": "Playboy DD",
+          "urls": [
+            "http://iptvtree.net:8080/live/iptvromania2020/31e75bff/290310.m3u8"
+          ]
+        },
+        {
+          "name": "Playboy 拉美",
+          "urls": [
+            "http://iptvtree.net:8080/live/iptvromania2020/31e75bff/290309.m3u8"
+          ]
+        },
+        {
+          "name": "Playboy 韩国",
+          "urls": [
+            "https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8"
+          ]
+        },
+        {
+          "name": "肛交",
+          "urls": [
+            "http://cdn.adultiptv.net/anal.m3u8"
+          ]
+        },
+        {
+          "name": "亚洲",
+          "urls": [
+            "http://cdn.adultiptv.net/asian.m3u8"
+          ]
+        },
+        {
+          "name": "大屁股",
+          "urls": [
+            "http://cdn.adultiptv.net/bigass.m3u8"
+          ]
+        },
+        {
+          "name": "大屌",
+          "urls": [
+            "http://cdn.adultiptv.net/bigdick.m3u8"
+          ]
+        },
+        {
+          "name": "大胸",
+          "urls": [
+            "http://cdn.adultiptv.net/bigtits.m3u8"
+          ]
+        },
+        {
+          "name": "金发",
+          "urls": [
+            "http://cdn.adultiptv.net/blonde.m3u8"
+          ]
+        },
+        {
+          "name": "口交",
+          "urls": [
+            "http://cdn.adultiptv.net/blowjob.m3u8"
+          ]
+        },
+        {
+          "name": "褐发",
+          "urls": [
+            "http://cdn.adultiptv.net/brunette.m3u8"
+          ]
+        },
+        {
+          "name": "精选合集",
+          "urls": [
+            "http://cdn.adultiptv.net/compilation.m3u8"
+          ]
+        },
+        {
+          "name": "绿帽",
+          "urls": [
+            "http://cdn.adultiptv.net/cuckold.m3u8"
+          ]
+        },
+        {
+          "name": "恋物",
+          "urls": [
+            "http://cdn.adultiptv.net/fetish.m3u8"
+          ]
+        },
+        {
+          "name": "硬核",
+          "urls": [
+            "http://cdn.adultiptv.net/hardcore.m3u8"
+          ]
+        },
+        {
+          "name": "跨种族",
+          "urls": [
+            "http://cdn.adultiptv.net/interracial.m3u8"
+          ]
+        },
+        {
+          "name": "拉丁",
+          "urls": [
+            "http://cdn.adultiptv.net/latina.m3u8"
+          ]
+        },
+        {
+          "name": "女同",
+          "urls": [
+            "http://cdn.adultiptv.net/lesbian.m3u8"
+          ]
+        },
+        {
+          "name": "直播摄像头",
+          "urls": [
+            "http://cdn.adultiptv.net/livecams.m3u8"
+          ]
+        },
+        {
+          "name": "熟女",
+          "urls": [
+            "http://cdn.adultiptv.net/milf.m3u8"
+          ]
+        },
+        {
+          "name": "明星",
+          "urls": [
+            "http://cdn.adultiptv.net/pornstar.m3u8"
+          ]
+        },
+        {
+          "name": "第一视角",
+          "urls": [
+            "http://cdn.adultiptv.net/pov.m3u8"
+          ]
+        },
+        {
+          "name": "粗暴",
+          "urls": [
+            "http://cdn.adultiptv.net/rough.m3u8"
+          ]
+        },
+        {
+          "name": "俄罗斯",
+          "urls": [
+            "http://cdn.adultiptv.net/russian.m3u8"
+          ]
+        },
+        {
+          "name": "三人",
+          "urls": [
+            "http://cdn.adultiptv.net/threesome.m3u8"
+          ]
+        },
+        {
+          "name": "女人",
+          "urls": [
+            "http://live.redtraffic.net/woman.m3u8"
+          ]
+        }
+      ]
     }
   ]
 }
