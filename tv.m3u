@@ -115,6 +115,14 @@ http://183.207.248.71/gitv/live1/G_JSGG/G_JSGG
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="江苏",徐州经济生活
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 group-title="江苏",南京新闻综合
+http://nklive.nbs.cn/hls/75b3c462-b831-4de7-a34b-5d3221db2069/index.m3u8
+#EXTINF:-1 group-title="江苏",南京新闻综合
+https://stream1.freetv.fun/8ca1585bd181dc05900254c6b579ac9d64a91e586dae306e21dbd177f96ab218.ctv
+#EXTINF:-1 group-title="江苏",南京新闻综合
+https://stream1.freetv.fun/5b4b16310f8c33dd6977992d1d1fa402cff0c85f10d68bbfc4e0415e95a74492.m3u8
+#EXTINF:-1 group-title="江苏",南京教科
+https://m3u8.channel.dzsm.com/nmip-media/channellive/channel105549/playlist.m3u8
 #EXTINF:-1 group-title="浙江",浙江经济
 rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
 #EXTINF:-1 group-title="浙江",浙江教育科技
@@ -231,6 +239,12 @@ http://120.76.248.139/live/bfgd/4200000116.m3u8
 http://198.204.228.26/live/gxwshd.m3u8
 #EXTINF:-1 group-title="广西",广西卫视
 http://38.75.136.137:98/gslb/dsdqpub/gxwshd.m3u8?auth=testpub
+#EXTINF:-1 group-title="广西",南宁新闻综合
+https://stream1.freetv.fun/ffe58e1432bb23d94442ba95229b83ca06b2726faa9117e8abeec3d7a80006ba.m3u8
+#EXTINF:-1 group-title="广西",南宁影视娱乐
+https://live.metshop.top/huya/11352941
+#EXTINF:-1 group-title="广西",南宁都市生活
+http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
 #EXTINF:-1 group-title="海南",海南卫视
 http://120.76.248.139/live/bfgd/4200000473.m3u8
 #EXTINF:-1 group-title="海南",三沙卫视
@@ -501,63 +515,13 @@ http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 http://125.210.152.18:9090/live/FXZL_750.m3u8
 #EXTINF:-1 group-title="纪录片",纪录人文
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 group-title="成人",Playboy TV
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/14222.m3u8
-#EXTINF:-1 group-title="成人",Playboy DD
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/290310.m3u8
-#EXTINF:-1 group-title="成人",Playboy 拉美
-http://iptvtree.net:8080/live/iptvromania2020/31e75bff/290309.m3u8
-#EXTINF:-1 group-title="成人",Playboy 韩国
-https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
-#EXTINF:-1 group-title="成人",肛交
-http://cdn.adultiptv.net/anal.m3u8
-#EXTINF:-1 group-title="成人",亚洲
-http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="成人",大屁股
-http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="成人",大屌
-http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="成人",大胸
-http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="成人",金发
-http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="成人",口交
-http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="成人",褐发
-http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="成人",精选合集
-http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="成人",绿帽
-http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="成人",恋物
-http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="成人",硬核
-http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="成人",跨种族
-http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="成人",拉丁
-http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="成人",女同
-http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="成人",直播摄像头
-http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="成人",熟女
-http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="成人",明星
-http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="成人",第一视角
-http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="成人",粗暴
-http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="成人",俄罗斯
-http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="成人",三人
-http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="成人",女人
-http://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 group-title="成人",日本
 http://cdn.adultiptv.net/japanese.m3u8
 #EXTINF:-1 group-title="成人",JAV
 http://cdn.adultiptv.net/jav.m3u8
 #EXTINF:-1 group-title="成人",Hentai
 http://cdn.adultiptv.net/hentai.m3u8
+#EXTINF:-1 group-title="成人",韩国
+http://cdn.adultiptv.net/korean.m3u8
+#EXTINF:-1 group-title="成人",Playboy 韩国
+https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
