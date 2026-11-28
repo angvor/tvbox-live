@@ -41,9 +41,43 @@
           ]
         },
         {
+          "name": "CCTV-3",
+          "urls": [
+            "http://74.91.26.218:82/live/cctv3hd.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3"
+          ]
+        },
+        {
           "name": "CCTV-4K",
           "urls": [
             "http://198.204.240.250:82/live/cctv4k.m3u8"
+          ]
+        },
+        {
+          "name": "CCTV-5+",
+          "urls": [
+            "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3"
+          ]
+        },
+        {
+          "name": "CCTV-6",
+          "urls": [
+            "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3"
+          ]
+        },
+        {
+          "name": "CCTV-6高清",
+          "urls": [
+            "http://69.30.245.50/live/cctv6.m3u8"
           ]
         },
         {
@@ -72,6 +106,16 @@
           ]
         },
         {
+          "name": "CCTV-9",
+          "urls": [
+            "https://xykt-fix.github.io/Y77.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3"
+          ]
+        },
+        {
           "name": "CCTV-10",
           "urls": [
             "http://74.91.26.218:82/live/cctv10hd.m3u8",
@@ -79,6 +123,15 @@
             "http://gslbserv.itv.cmvideo.cn/1000000001000023734/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023734&livemode=1&stbId=3",
             "http://gslbserv.itv.cmvideo.cn/5000000004000012827/1.m3u8?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=3",
             "http://gslbserv.itv.cmvideo.cn/1000000005000265010/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265010&livemode=1&stbId=3"
+          ]
+        },
+        {
+          "name": "CCTV-11",
+          "urls": [
+            "http://74.91.26.218:82/live/cctv11hd.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3"
           ]
         },
         {
@@ -106,6 +159,34 @@
           ]
         },
         {
+          "name": "CCTV-14",
+          "urls": [
+            "http://74.91.26.218:82/live/cctv14hd.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/1000000001000008170/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/5000000004000006673/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3"
+          ]
+        },
+        {
+          "name": "CCTV-15",
+          "urls": [
+            "http://74.91.26.218:82/live/cctv15hd.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3"
+          ]
+        },
+        {
+          "name": "CCTV-16",
+          "urls": [
+            "http://74.91.26.218:82/live/cctv16hd.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3"
+          ]
+        },
+        {
           "name": "CCTV-17",
           "urls": [
             "http://74.91.26.218:82/live/cctv17hd.m3u8",
@@ -115,9 +196,21 @@
           ]
         },
         {
+          "name": "CCTV台球",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub"
+          ]
+        },
+        {
           "name": "CCTV精品",
           "urls": [
             "http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CCTV高尔夫网球",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub"
           ]
         },
         {
@@ -133,9 +226,45 @@
           ]
         },
         {
+          "name": "CCTV风云足球",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CCTV风云音乐",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CCTV风云剧场",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CCTV第一剧场",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CCTV国防军事",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub"
+          ]
+        },
+        {
           "name": "CCTV女性时尚",
           "urls": [
             "http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub"
+          ]
+        },
+        {
+          "name": "CCTV世界地理",
+          "urls": [
+            "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub"
           ]
         },
         {
@@ -166,9 +295,11 @@
           ]
         },
         {
-          "name": "CCTV164KHEVC",
+          "name": "CCTV-5",
           "urls": [
-            "http://gslbserv.itv.cmvideo.cn/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3"
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3"
           ]
         }
       ]
@@ -1820,84 +1951,8 @@
       ]
     },
     {
-      "group": "体育",
-      "channels": [
-        {
-          "name": "CCTV-5+",
-          "urls": [
-            "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3"
-          ]
-        },
-        {
-          "name": "CCTV-16",
-          "urls": [
-            "http://74.91.26.218:82/live/cctv16hd.m3u8",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/1000000006000233002/1.m3u8?channel-id=ystenlive&Contentid=1000000006000233002&livemode=1&stbId=3"
-          ]
-        },
-        {
-          "name": "CCTV台球",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub"
-          ]
-        },
-        {
-          "name": "CCTV高尔夫网球",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub"
-          ]
-        },
-        {
-          "name": "CCTV风云足球",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub"
-          ]
-        },
-        {
-          "name": "CCTV-5",
-          "urls": [
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3"
-          ]
-        }
-      ]
-    },
-    {
       "group": "电影",
       "channels": [
-        {
-          "name": "CCTV-6",
-          "urls": [
-            "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265006&livemode=1&stbId=3"
-          ]
-        },
-        {
-          "name": "CCTV-6高清",
-          "urls": [
-            "http://69.30.245.50/live/cctv6.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV风云剧场",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub"
-          ]
-        },
-        {
-          "name": "CCTV第一剧场",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub"
-          ]
-        },
         {
           "name": "CHC动作电影",
           "urls": [
@@ -1919,32 +1974,8 @@
       ]
     },
     {
-      "group": "娱乐",
-      "channels": [
-        {
-          "name": "CCTV-3",
-          "urls": [
-            "http://74.91.26.218:82/live/cctv3hd.m3u8",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265003/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265003&livemode=1&stbId=3"
-          ]
-        }
-      ]
-    },
-    {
       "group": "少儿",
       "channels": [
-        {
-          "name": "CCTV-14",
-          "urls": [
-            "http://74.91.26.218:82/live/cctv14hd.m3u8",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/1000000001000008170/1.m3u8?channel-id=ystenlive&Contentid=1000000001000008170&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/5000000004000006673/1.m3u8?channel-id=bestzb&Contentid=5000000004000006673&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265013/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265013&livemode=1&stbId=3"
-          ]
-        },
         {
           "name": "金鹰卡通",
           "urls": [
@@ -1960,59 +1991,8 @@
       ]
     },
     {
-      "group": "音乐",
-      "channels": [
-        {
-          "name": "CCTV-11",
-          "urls": [
-            "http://74.91.26.218:82/live/cctv11hd.m3u8",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265011/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265011&livemode=1&stbId=3"
-          ]
-        },
-        {
-          "name": "CCTV-15",
-          "urls": [
-            "http://74.91.26.218:82/live/cctv15hd.m3u8",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/5000000011000031109/1.m3u8?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3"
-          ]
-        },
-        {
-          "name": "CCTV风云音乐",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub"
-          ]
-        }
-      ]
-    },
-    {
       "group": "纪录片",
       "channels": [
-        {
-          "name": "CCTV-9",
-          "urls": [
-            "https://xykt-fix.github.io/Y77.m3u8",
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/6000000001000032162/1.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265009/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265009&livemode=1&stbId=3"
-          ]
-        },
-        {
-          "name": "CCTV国防军事",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub"
-          ]
-        },
-        {
-          "name": "CCTV世界地理",
-          "urls": [
-            "http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub"
-          ]
-        },
         {
           "name": "CND电影发现",
           "urls": [
