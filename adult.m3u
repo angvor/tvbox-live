@@ -12,3 +12,13 @@ http://cdn.adultiptv.net/korean.m3u8
 https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8
 #EXTINF:-1,亚洲
 http://cdn.adultiptv.net/asian.m3u8
+#EXTINF:-1,日本2
+http://cdn.adultiptv.net/japanese2.m3u8
+#EXTINF:-1,JAV2
+http://cdn.adultiptv.net/jav2.m3u8
+#EXTINF:-1,韩国2
+http://cdn.adultiptv.net/korean2.m3u8
+#EXTINF:-1,无码
+http://cdn.adultiptv.net/uncensored.m3u8
+#EXTINF:-1,有码
+http://cdn.adultiptv.net/censored.m3u8
