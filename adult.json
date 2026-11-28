@@ -1,0 +1,45 @@
+{
+ "lives": [
+  {
+   "group": "成人",
+   "channels": [
+    {
+     "name": "日本",
+     "urls": [
+      "http://cdn.adultiptv.net/japanese.m3u8"
+     ]
+    },
+    {
+     "name": "JAV",
+     "urls": [
+      "http://cdn.adultiptv.net/jav.m3u8"
+     ]
+    },
+    {
+     "name": "Hentai",
+     "urls": [
+      "http://cdn.adultiptv.net/hentai.m3u8"
+     ]
+    },
+    {
+     "name": "韩国",
+     "urls": [
+      "http://cdn.adultiptv.net/korean.m3u8"
+     ]
+    },
+    {
+     "name": "Playboy 韩国",
+     "urls": [
+      "https://allanf181.github.io/adaptive-streams/streams/kr/PlayboyTVKorea.m3u8"
+     ]
+    },
+    {
+     "name": "亚洲",
+     "urls": [
+      "http://cdn.adultiptv.net/asian.m3u8"
+     ]
+    }
+   ]
+  }
+ ]
+}
