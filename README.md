@@ -24,11 +24,20 @@ https://raw.githubusercontent.com/angvor/tvbox-live/main/tv.json
 
 - `tv.m3u`：直播频道 M3U 播放列表
 - `tv.json`：直播频道配置（JSON 格式，TVBox 可直接加载）
-- 42 个分组、274 个频道：央视、各省（省台 + 省内各频道 + 省会城市台）、香港、台湾、澳门、体育、电影、娱乐、少儿、音乐、纪录片、成人（仅日韩）
+- 41 个分组、272 个频道：央视、各省（省台 + 省内各频道 + 省会城市台）、香港、台湾、澳门、体育、电影、娱乐、少儿、音乐、纪录片
+- 每个频道有多条备用线路（主源 iptv-org + fanmingming 备用源），一条打不开会自动换下一条
+
+## 成人频道（单独源）
+
+成人频道已从主源移出，单独成源，需要的自行添加：
+
+- TVBox JSON：`https://raw.githubusercontent.com/angvor/tvbox-live/main/adult.json`
+- M3U：`https://raw.githubusercontent.com/angvor/tvbox-live/main/adult.m3u`
+- 6 个频道：日本、JAV、Hentai、韩国、Playboy 韩国、亚洲
 
 ## 说明
 
 - 频道源为公开 IPTV 流，部分源可能失效或受地域限制，个别台打不开是正常的。
 - OK影视 本身是看电影电视剧的点播应用，直播要走上面的直播配置入口；只填点播配置是看不到直播的。
 - 每天早上 6 点自动更新，失效的源会被替换。
-- 仓库是公开的，成人分组所有人都能看到。
+- 仓库是公开的，成人源所有人都能看到。
