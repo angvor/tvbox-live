@@ -59,6 +59,10 @@
           "name": "CCTV-5+",
           "urls": [
             "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
+            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8",
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8",
+            "http://202.120.58.89/hls/cctv5phd.m3u8",
+            "http://iptv.tvfix.org/hls/cctv5phd.m3u8",
             "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?",
             "http://gslbserv.itv.cmvideo.cn/6000000001000015875/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015875&livemode=1&stbId=3",
             "http://gslbserv.itv.cmvideo.cn/1000000005000265016/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265016&livemode=1&stbId=3"
@@ -68,6 +72,12 @@
           "name": "CCTV-6",
           "urls": [
             "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8",
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8",
+            "http://202.120.58.89/hls/cctv6.m3u8",
+            "http://iptv.tvfix.org/hls/cctv6hd.m3u8",
+            "http://110.53.52.63:8888/newlive/live/hls/8/live.m3u8",
+            "http://221.226.51.220:50081/newlive/live/hls/6/live.m3u8",
             "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?",
             "http://gslbserv.itv.cmvideo.cn/1000000001000001737/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001737&livemode=1&stbId=3",
             "http://gslbserv.itv.cmvideo.cn/6000000001000004574/1.m3u8?channel-id=wasusyt&Contentid=6000000001000004574&livemode=1&stbId=3",
@@ -287,19 +297,25 @@
           ]
         },
         {
+          "name": "CCTV-5",
+          "urls": [
+            "http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8",
+            "http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8",
+            "http://202.120.58.89/hls/cctv5.m3u8",
+            "http://iptv.tvfix.org/hls/cctv5hd.m3u8",
+            "http://58.210.168.86:10800/newlive/live/hls/5/live.m3u8",
+            "http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8",
+            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3",
+            "http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3"
+          ]
+        },
+        {
           "name": "CCTV-4",
           "urls": [
             "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?",
             "http://gslbserv.itv.cmvideo.cn/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3",
             "http://gslbserv.itv.cmvideo.cn/1000000005000265004/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265004&livemode=1&stbId=3"
-          ]
-        },
-        {
-          "name": "CCTV-5",
-          "urls": [
-            "http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000025222/1.m3u8?channel-id=ystenlive&Contentid=1000000005000025222&livemode=1&stbId=3",
-            "http://gslbserv.itv.cmvideo.cn/1000000005000265005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265005&livemode=1&stbId=3"
           ]
         }
       ]
