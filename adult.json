@@ -38,6 +38,36 @@
      "urls": [
       "http://cdn.adultiptv.net/asian.m3u8"
      ]
+    },
+    {
+     "name": "日本2",
+     "urls": [
+      "http://cdn.adultiptv.net/japanese2.m3u8"
+     ]
+    },
+    {
+     "name": "JAV2",
+     "urls": [
+      "http://cdn.adultiptv.net/jav2.m3u8"
+     ]
+    },
+    {
+     "name": "韩国2",
+     "urls": [
+      "http://cdn.adultiptv.net/korean2.m3u8"
+     ]
+    },
+    {
+     "name": "无码",
+     "urls": [
+      "http://cdn.adultiptv.net/uncensored.m3u8"
+     ]
+    },
+    {
+     "name": "有码",
+     "urls": [
+      "http://cdn.adultiptv.net/censored.m3u8"
+     ]
     }
    ]
   }
